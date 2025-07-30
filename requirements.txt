@@ -1,0 +1,5 @@
+func_timeout==4.3.5
+json_repair==0.30.2
+Requests==2.32.3
+tqdm==4.67.1
+transformers==4.46.3
